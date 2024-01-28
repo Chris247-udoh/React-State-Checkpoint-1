@@ -3,9 +3,9 @@ import "./App.css"
 
 function App() {
     const [person, setPerson] = useState({
-      fullName: "Jude Bellingham",
+      fullName: "Messi",
       bio:  "He is from England. He plays as a Midfielder for real madrid.",
-      imgSrc: "https://prod-media.beinsports.com/image/1696111251535_f53fafe6-816f-4e88-aafb-d992b8867849.jpg",
+      imgSrc: "https://wallpapers.com/images/featured/soccer-players-pictures-skf4kbglp3aiadge.jpg",
       profession: "Footballer"
     });
     const [shows, setShows] = useState(false);
